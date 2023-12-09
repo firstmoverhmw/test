@@ -3,4 +3,3 @@ langchain
 openai
 json
 pandas
-openai_api
