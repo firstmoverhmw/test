@@ -1,5 +1,11 @@
-streamlit
 langchain
+chromadb
+pysqlite3-binary
+unstructured
+sentence-transformers
+faiss-cpu
+tiktoken
 openai
-json
-pandas
+pypdf
+loguru
+docx2txt
